@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+  
+Sitemap: https://cincau.suppliers.id/video-sitemap.xml
