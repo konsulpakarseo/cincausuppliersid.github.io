@@ -1,4 +1,6 @@
 User-agent: *
-Disallow:
+Allow:
   
 Sitemap: https://cincau.suppliers.id/video-sitemap.xml
+Sitemap: https://cincau.suppliers.id/post-sitemap.xml
+Sitemap: https://cincau.suppliers.id/page-sitemap.xml
